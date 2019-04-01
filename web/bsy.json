@@ -1,0 +1,16 @@
+{
+  "name": "web",
+  "repository": {},
+  "builder": "igroot-builder",
+  "options": {
+    "homepage": "index",
+    "port": 9527,
+    "theme": {},
+    "esModule": [
+      "sso-login",
+      "igroot-form-container",
+      "igroot-router-config",
+      "igroot-frame-layout"
+    ]
+  }
+}

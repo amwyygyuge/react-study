@@ -1,0 +1,27 @@
+{
+  "name": "web",
+  "version": "0.0.1",
+  "description": "应用描述",
+  "author": "",
+  "license": "MIT",
+  "private": true,
+  "link": false,
+  "dependencies": {
+    "history": "^4.7.2",
+    "igroot": "^1.6.6",
+    "igroot-fetch": "^1.5.6",
+    "igroot-form-container": "^0.0.2",
+    "igroot-frame-layout": "^0.2.0",
+    "igroot-router-config": "^0.0.5",
+    "lokka": "^1.7.0",
+    "react": "16.4.0",
+    "react-dom": "16.4.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "sso-login": "^1.0.4"
+  },
+  "engines": {
+    "node": ">= 6.9.3",
+    "npm": ">= 3"
+  }
+}
